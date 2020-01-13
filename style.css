@@ -3,6 +3,7 @@ h1 {
 }
 p {
 	color: red;
+	border: 100px;
 }
 img {
 	height: 500px;
