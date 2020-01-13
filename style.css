@@ -7,7 +7,6 @@ body {
 p {
 	color: red;
 }
-
 .center {
 	width: 100%;
 	margin: auto;
@@ -15,7 +14,7 @@ p {
 }
 .border {
 	border: 10px ridge gold;
-	width: 10px;
+	width: 100px;
 	float: right;
 }
 .about {
