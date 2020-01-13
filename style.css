@@ -7,7 +7,7 @@ p {
 }
 
 .center {
-	width: 100%;
+	width: 200%;
 	margin: auto;
 	text-align: center;
 }
@@ -22,3 +22,4 @@ p {
 .about1 {
 	background-color: gold;
 }
+
