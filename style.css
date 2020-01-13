@@ -7,5 +7,5 @@ p {
 img {
 	height: 500px;
 	width: auto;
-	border-collapse: collapse;
+	border-bottom-color: red;
 }
