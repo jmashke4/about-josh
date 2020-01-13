@@ -5,17 +5,17 @@ h1 {
 p {
 	color: red;
 }
-img {
-	height: 500px;
-	width: auto;
-	float: right;
-}
+
 .center {
 	width: 100%;
 	margin: auto;
 	text-align: center;
 }
 .border {
-	border: 10px;
-	border: red;
+	border: 10px ridge gold;
+	width: 10px;
+	float: right;
+}
+.about {
+	background-color: gold;
 }
