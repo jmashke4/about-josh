@@ -5,6 +5,7 @@ p {
 	color: red;
 }
 img {
-	height: 300px;
+	height: 500px;
 	width: auto;
+	border-collapse: collapse;
 }
