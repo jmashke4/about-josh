@@ -14,7 +14,7 @@ p {
 }
 .border {
 	border: 10px ridge gold;
-	width: 100px;
+	width: 200px;
 	float: right;
 }
 .about {
