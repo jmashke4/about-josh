@@ -5,13 +5,16 @@ body {
 	background-color: antiquewhite;
 }
 p {
-	color: red;
+	color: firebrick;
 }
 .center {
 	width: 100%;
 	margin: auto;
 	text-align: center;
+	font-size: large;
+	font-weight: bold;
 }
+
 .border {
 	border: 10px ridge gold;
 	width: 350px;
